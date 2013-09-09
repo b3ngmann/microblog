@@ -1,4 +1,4 @@
 microblog
 =========
 
-django implementation of a microblog
+django implementation of a simple microblog
